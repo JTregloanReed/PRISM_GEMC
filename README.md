@@ -4,5 +4,4 @@ PRISM uses a pixellation approach to represent the star and planet on a two-dime
 
 GEMC was created in conjunction to PRISM to improve the efficiency of finding a global solution in a complex multivariate parameter space compared to conventional MCMC algorithms (Tregloan-Reed et al. 2013, 2015). GEMC is a hybrid between an MCMC and a genetic algorithm and is based on the Differential Evolution Markov Chain (DE-MC) put forward by Ter Braak (Ter Braak C. J. F., 2006, Stat. Comput., 16, 239).
 
-The codes are written in IDL (Interactive Data Language, For further details, see http://www.harrisgeospatial.com/Productsand
-Technology/Software/IDL.aspx.) and were developed to model the transit, limb darkening (LD), and starspots on the stellar disc simultaneously.
+The codes are written in IDL (Interactive Data Language, For further details, see http://www.harrisgeospatial.com/ProductsandTechnology/Software/IDL.aspx) and were developed to model the transit, limb darkening (LD), and starspots on the stellar disc simultaneously.
